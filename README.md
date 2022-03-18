@@ -4,4 +4,4 @@ Portafolio Profesional Josmir Jaimes
 
 ## Proyectos
 
-- [Landing Page de tipo Portafolio-CV](https://Josmirj.github.io/Portafolio-Web/portafolio-cv)
+- [Landing Page de tipo Portafolio-CV](https://josmirj.github.io/portafolio-cv/portafolio-cv)
